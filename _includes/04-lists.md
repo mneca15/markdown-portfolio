@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Play Soccer
+* Learn New Things
+  * Personal Development
+  * Web Development
+* Watch Movies & TV Shows
+* Read
